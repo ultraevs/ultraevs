@@ -16,16 +16,13 @@
 
 [![Golang Badge](https://img.shields.io/badge/-Golang-61DBFB?style=for-the-badge&labelColor=black&logo=go&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-007acc?style=for-the-badge&labelColor=black&logo=docker&logoColor=007acc)](#) [![Nginx Badge](https://img.shields.io/badge/-Nginx-3C873A?style=for-the-badge&labelColor=black&logo=nginx&logoColor=3C873A)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-postgresql-e535ab?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=e535ab)](#)
 
-<br />
-<br />
-
 #### Bizness
 - :email: evseevforwork@gmail.com
 
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ultraevs.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ultraevs.ultraevs)
 
 #### Coding Stats
 
