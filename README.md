@@ -26,7 +26,9 @@
 
 #### Coding Stats
 
-![ultraevs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ultraevs)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ultraevs" />
+</a>
 
 #### Github Stats
 
