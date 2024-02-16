@@ -16,7 +16,7 @@
 
 [![Golang Badge](https://img.shields.io/badge/-Golang-61DBFB?style=for-the-badge&labelColor=white&logo=go&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=white&logo=python&logoColor=F0DB4F)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-007acc?style=for-the-badge&labelColor=white&logo=docker&logoColor=007acc)](#) [![Nginx Badge](https://img.shields.io/badge/-Nginx-3C873A?style=for-the-badge&labelColor=white&logo=nginx&logoColor=3C873A)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-postgresql-e535ab?style=for-the-badge&labelColor=white&logo=postgresql&logoColor=e535ab)](#)
 
-#### Bizness
+#### Business
 - :email: evseevforwork@gmail.com
 
 
