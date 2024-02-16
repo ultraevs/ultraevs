@@ -1,12 +1,37 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultraevs" alt="ultraevs" /></a> </p>
+## Hi I'm Mihail <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/ultraevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ultraevs" height="30" width="40" /></a>
-<a href="/https://ultraevs.ru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ultraevs.ru" height="30" width="40" /></a>
-</p>
+🚀 Check out my Portfolio [ultraevs.ru](https://ultraevs.ru) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+:mailbox: Reach me out!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ultraevs&show_icons=true&locale=en" alt="ultraevs" /></p>
+[![Mail Badge](https://img.shields.io/badge/-ultraevs-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ultraevs@gmail.com) [![Mail Badge](https://img.shields.io/badge/-ndelle-c0392b?style=flat&labelColor=c0392b&logo=vk&logoColor=white)](https://vk.com/ndelle)
+
+<!-- TODO: Add last video link -->
+
+### What I currently Do
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Golang Badge](https://img.shields.io/badge/-Golang-61DBFB?style=for-the-badge&labelColor=black&logo=go&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-007acc?style=for-the-badge&labelColor=black&logo=docker&logoColor=007acc)](#) [![Nginx Badge](https://img.shields.io/badge/-Nginx-3C873A?style=for-the-badge&labelColor=black&logo=nginx&logoColor=3C873A)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-postgresql-e535ab?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=e535ab)](#)
+
+<br />
+<br />
+
+#### Bizness
+- :email: evseevforwork@gmail.com
+
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ultraevs.ipenywis)
+
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+#### Github Stats
+
+![ultraevs's github stats](https://github-readme-stats.vercel.app/api?username=ultraevs&count_private=true&theme=tokyonight&hide=contribs,prs)
