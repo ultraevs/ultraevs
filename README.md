@@ -15,7 +15,7 @@
   <a href="mailto:ultraevs@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/-ultraevs-c0392b?style=flat&logo=gmail&logoColor=white&labelColor=c0392b">
   </a>
-  <a href="vk.com/ndelle">
+  <a href="https://vk.com/ndelle">
     <img alt="Static Badge" src="https://img.shields.io/badge/-ndelle-c0392b?style=flat&logo=vk&logoColor=white&labelColor=c0392b">
   </a>
   <a href="https://t.me/kelianis">
