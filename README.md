@@ -22,7 +22,7 @@
 
 #### Profile Visits 
 
-![visitors]([https://visitor-badge.glitch.me/badge?page_id=ultraevs.ultraevs](https://visitor-badge.laobi.icu/badge?page_id=ultraevs.ultraevs))
+![visitors]([https://visitor-badge.laobi.icu/badge?page_id=ultraevs.ultraevs])
 
 #### Coding Stats
 
