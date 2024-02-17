@@ -6,7 +6,7 @@ I am a novice backend developer. I am studying at NUST MISIS in the 1st year of 
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-ultraevs-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ultraevs@gmail.com) [![Mail Badge](https://img.shields.io/badge/-ndelle-c0392b?style=flat&labelColor=c0392b&logo=vk&logoColor=white)](https://vk.com/ndelle)[![Mail Badge](https://img.shields.io/badge/-kelianis-c0392b?style=flat&labelColor=c0392b&logo=telegram&logoColor=white)](https://t.me/kelianis)
+[![Mail Badge](https://img.shields.io/badge/-ultraevs-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ultraevs@gmail.com) [![Mail Badge](https://img.shields.io/badge/-ndelle-c0392b?style=flat&labelColor=c0392b&logo=vk&logoColor=white)](https://vk.com/ndelle) [![Mail Badge](https://img.shields.io/badge/-kelianis-c0392b?style=flat&labelColor=c0392b&logo=telegram&logoColor=white)](https://t.me/kelianis)
 
 <!-- TODO: Add last video link -->
 
