@@ -5,7 +5,9 @@
 <p align="center">I am a novice backend developer. I am studying at NUST MISIS in the 1st year of the Faculty of Information Technology.</p>
 
 <p align="center">  
-  <img src="https://wakatime.com/badge/user/018d5714-2a85-42bf-a532-62fbc0b33581.svg" alt="ultraevs" />
+  <a href="https://wakatime.com/@ultraevs">
+    <img src="https://wakatime.com/badge/user/018d5714-2a85-42bf-a532-62fbc0b33581.svg" alt="ultraevs"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=ultraevs&label=Profile%20views&color=0e75b6&style=flat" alt="idevelopthings" />
 </p>
 
