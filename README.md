@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Mikhail <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 
-<h3 align="center">🚀 Check out my Portfolio [ultraevs.ru](https://ultraevs.ru)</h3> 
+<h3 align="center">🚀 Check out my Portfolio <a href="https://ultraevs.ru">ultraevs.ru</a></h3> 
 
 <p align="center">I am a novice backend developer. I am studying at NUST MISIS in the 1st year of the Faculty of Information Technology.</p>
 
@@ -12,11 +12,16 @@
 <p align="center">:mailbox: Reach me out!</p>
 
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-ultraevs-c0392b?style=flat&logo=gmail&logoColor=white&labelColor=c0392b&link=mailto%3Aultraevs%40gmail.com">
+  <a href="mailto:ultraevs@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-ultraevs-c0392b?style=flat&logo=gmail&logoColor=white&labelColor=c0392b">
+  </a>
+  <a href="vk.com/ndelle">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-ndelle-c0392b?style=flat&logo=vk&logoColor=white&labelColor=c0392b">
+  </a>
+  <a href="https://t.me/kelianis">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-kelianis-c0392b?style=flat&logo=telegram&logoColor=white&labelColor=c0392b">
+  </a>
 </p>
-[![Mail Badge](https://img.shields.io/badge/-ultraevs-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ultraevs@gmail.com) [![Mail Badge](https://img.shields.io/badge/-ndelle-c0392b?style=flat&labelColor=c0392b&logo=vk&logoColor=white)](https://vk.com/ndelle) [![Mail Badge](https://img.shields.io/badge/-kelianis-c0392b?style=flat&labelColor=c0392b&logo=telegram&logoColor=white)](https://t.me/kelianis)
-
-
 
 <!-- TODO: Add last video link -->
 
@@ -36,16 +41,6 @@
 #### Business
 - :email: evseevforwork@gmail.com
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ultraevs.ultraevs)
-
-#### Coding Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ultraevs" />
-</a>
 
 #### Github Stats
 
