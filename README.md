@@ -2,6 +2,8 @@
 
 🚀 Check out my Portfolio [ultraevs.ru](https://ultraevs.ru) 
 
+I am a novice backend developer. I am studying at NUST MISIS in the 1st year of the Faculty of Information Technology.
+
 :mailbox: Reach me out!
 
 [![Mail Badge](https://img.shields.io/badge/-ultraevs-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ultraevs@gmail.com) [![Mail Badge](https://img.shields.io/badge/-ndelle-c0392b?style=flat&labelColor=c0392b&logo=vk&logoColor=white)](https://vk.com/ndelle)
@@ -9,6 +11,11 @@
 <!-- TODO: Add last video link -->
 
 ### What I currently Do
+
+- I am currently working on my portfolio website and its content.
+- I am studying Golang and in particular the Gin framework.
+- I have been interested in programming for 5 years. During this time, I had experience creating bots, websites, and apps.
+- I am studying DevOps. I study Linux, Proxmox, Nginx, Kubernetes.
 
 #### Top Technologies
 
