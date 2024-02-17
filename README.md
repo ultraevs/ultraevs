@@ -1,12 +1,22 @@
-## Hi I'm Mikhail <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<h1 align="center">Hi I'm Mikhail <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 
-🚀 Check out my Portfolio [ultraevs.ru](https://ultraevs.ru) 
+<h3 align="center">🚀 Check out my Portfolio [ultraevs.ru](https://ultraevs.ru)</h3> 
 
-I am a novice backend developer. I am studying at NUST MISIS in the 1st year of the Faculty of Information Technology.
+<p align="center">I am a novice backend developer. I am studying at NUST MISIS in the 1st year of the Faculty of Information Technology.</p>
 
-:mailbox: Reach me out!
+<p align="center">  
+  <img src="https://wakatime.com/badge/user/018d5714-2a85-42bf-a532-62fbc0b33581.svg" alt="ultraevs" />
+  <img src="https://komarev.com/ghpvc/?username=ultraevs&label=Profile%20views&color=0e75b6&style=flat" alt="idevelopthings" />
+</p>
 
+<p align="center">:mailbox: Reach me out!</p>
+
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-ultraevs-c0392b?style=flat&logo=gmail&logoColor=white&labelColor=c0392b&link=mailto%3Aultraevs%40gmail.com">
+</p>
 [![Mail Badge](https://img.shields.io/badge/-ultraevs-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ultraevs@gmail.com) [![Mail Badge](https://img.shields.io/badge/-ndelle-c0392b?style=flat&labelColor=c0392b&logo=vk&logoColor=white)](https://vk.com/ndelle) [![Mail Badge](https://img.shields.io/badge/-kelianis-c0392b?style=flat&labelColor=c0392b&logo=telegram&logoColor=white)](https://t.me/kelianis)
+
+
 
 <!-- TODO: Add last video link -->
 
