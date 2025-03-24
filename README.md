@@ -29,7 +29,7 @@
 
 ### What I currently Do
 
-- I am currently working on my portfolio website and its content.
+- I am currently working at MTS as a python backend developer.
 - I am studying Golang and in particular the Gin framework.
 - I have been interested in programming for 5 years. During this time, I had experience creating bots, websites, and apps.
 - I am studying DevOps. I study Linux, Proxmox, Nginx, Kubernetes.
