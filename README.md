@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Mikhail <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1> 
 
-<p align="center">I am a novice backend developer. I am studying at NUST MISIS in the 2st year of the Faculty of Information Technology.</p>
+<p align="center">I am a novice backend developer. I am studying at NUST MISIS in the 3st year of the Faculty of Information Technology.</p>
 
 <p align="center">  
   <a href="https://wakatime.com/@ultraevs">
@@ -29,8 +29,8 @@
 
 ### What I currently Do
 
-- I am currently working at MTS as a python backend developer.
-- I am studying Golang and in particular the Gin framework.
+- I am currently working at CICADA8 as a python backend developer.
+- I am practicing Golang and in particular the Gin framework.
 - I have been interested in programming for 5 years. During this time, I had experience creating bots, websites, and apps.
 - I am studying DevOps. I study Linux, Proxmox, Nginx, Kubernetes.
 
