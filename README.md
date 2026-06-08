@@ -1,49 +1,52 @@
-<h1 align="center">Hi I'm Mikhail <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1> 
+<div align="center">
 
-<p align="center">I am a novice backend developer. I am studying at NUST MISIS in the 3st year of the Faculty of Information Technology.</p>
+# Mikhail Evseev
 
-<p align="center">  
-  <a href="https://wakatime.com/@ultraevs">
-    <img src="https://wakatime.com/badge/user/018d5714-2a85-42bf-a532-62fbc0b33581.svg" alt="ultraevs"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ultraevs&label=Profile%20views&color=0e75b6&style=flat" alt="idevelopthings" />
-</p>
+**Backend Developer · Python · Go · DevOps**
 
-<p align="center">:mailbox: Reach me out!</p>
+I build backend services, APIs, bots, and infrastructure around them.
+Currently working as a **Python Backend Developer at CICADA8** and studying Information Technology at **NUST MISIS**.
 
-<p align="center">
-  <a href="mailto:ultraevs@gmail.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-ultraevs-c0392b?style=flat&logo=gmail&logoColor=white&labelColor=c0392b">
-  </a>
-  <a href="https://vk.com/ndelle">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-ndelle-c0392b?style=flat&logo=vk&logoColor=white&labelColor=c0392b">
-  </a>
-  <a href="https://t.me/kelianis">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-kelianis-c0392b?style=flat&logo=telegram&logoColor=white&labelColor=c0392b">
-  </a>
-</p>
+<br />
 
-<!-- <h3 align="center">🚀 Check out my Portfolio <a href="https://ultraevs.ru">ultraevs.ru</a></h3> -->
+<a href="https://wakatime.com/@ultraevs">
+  <img src="https://wakatime.com/badge/user/018d5714-2a85-42bf-a532-62fbc0b33581.svg" alt="WakaTime" />
+</a>
 
-<!-- TODO: Add last video link -->
+</div>
 
-### What I currently Do
+---
 
-- I am currently working at CICADA8 as a python backend developer.
-- I am practicing Golang and in particular the Gin framework.
-- I have been interested in programming for 5 years. During this time, I had experience creating bots, websites, and apps.
-- I am studying DevOps. I study Linux, Proxmox, Nginx, Kubernetes.
+## About
 
-#### Top Technologies
+Backend developer focused on building practical and reliable server-side applications.
 
-<!-- TODO: Make technologies links takes you to repositories -->
+I mainly work with **Python**, backend services, APIs, bots, databases, and deployment workflows. Alongside that, I am actively improving my **Go** skills and exploring infrastructure topics such as Linux, Nginx, Proxmox, Docker, and Kubernetes.
 
-[![Golang Badge](https://img.shields.io/badge/-Golang-61DBFB?style=for-the-badge&labelColor=white&logo=go&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=white&logo=python&logoColor=F0DB4F)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-007acc?style=for-the-badge&labelColor=white&logo=docker&logoColor=007acc)](#) [![Nginx Badge](https://img.shields.io/badge/-Nginx-3C873A?style=for-the-badge&labelColor=white&logo=nginx&logoColor=3C873A)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-postgresql-e535ab?style=for-the-badge&labelColor=white&logo=postgresql&logoColor=e535ab)](#)
+I have been interested in programming for more than 5 years and have experience building bots, websites, applications, and backend services.
 
-#### Business
-- :email: evseevforwork@gmail.com
+---
 
+## Tech stack
 
-#### Github Stats
+<div align="center">
 
-![ultraevs's github stats](https://github-readme-stats.vercel.app/api?username=ultraevs&count_private=true&theme=default&hide=contribs,prs)
+<img src="https://skillicons.dev/icons?i=python,go,docker,postgres,redis,nginx,linux,kubernetes,git,github" alt="Tech stack" />
+
+</div>
+
+---
+
+## Contact
+
+* Work email: **[evseevforwork@gmail.com](mailto:evseevforwork@gmail.com)**
+* Telegram: [@kelianis](https://t.me/kelianis)
+* VK: [ndelle](https://vk.com/ndelle)
+
+<div align="center">
+
+<br />
+
+**Open to backend, infrastructure and automation-related projects.**
+
+</div>
