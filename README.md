@@ -46,7 +46,4 @@ I have been interested in programming for more than 5 years and have experience 
 <div align="center">
 
 <br />
-
-**Open to backend, infrastructure and automation-related projects.**
-
 </div>
